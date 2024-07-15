@@ -1,5 +1,3 @@
-# MTE Download Page
-
 ## Welcome to More to Explore's download page!
 Please DO NOT repost or use other links to the addon besides our wiki site and MCPEDL site! If you do, we will take action and take down the content.
 
