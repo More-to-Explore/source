@@ -1,5 +1,5 @@
-## Welcome to More to Explore's download page!
-Please DO NOT repost or use other links to the addon besides our wiki site and MCPEDL site! If you do, we will take action and take down the content.
+## Official MtE V2 (Open Beta)
+More to Explore Remastered is still Work in Progress! Join our Discord to stay updated --> <a href="https://https://discord.com/invite/Db8UqZNPcU">Join Here</a>
 
 ## Wiki and Info site:
 
@@ -10,4 +10,5 @@ It's lightweight and runs as a PWA too!
 
 ## Downloads:
 
-<a href="https://github.com/More-to-Explore/source/releases/download/untagged-adc3462dfaf02a5e307e/MoreToExplore.unzip.the.package.zip" download>Latest Stable</a>
+<a href="https://github.com/More-to-Explore/source/releases/download/untagged-adc3462dfaf02a5e307e/MoreToExplore.unzip.the.package.zip" download>Latest Stable [MtE 1.0]</a>
+
